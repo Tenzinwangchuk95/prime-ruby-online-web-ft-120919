@@ -1,5 +1,5 @@
 def prime(num)
-  (2..num-1)none?
+  (2..num-1)none? {
     
     
     
