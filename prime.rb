@@ -1,4 +1,4 @@
-def prime (num)
+def prime(num)
   num.prime
     
     
